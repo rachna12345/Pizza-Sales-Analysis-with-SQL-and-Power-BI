@@ -7,3 +7,6 @@ The following requirements are addressed:
 4. The time of the day where most order is made.
 5. The pizza most liked by the customers.
 6. Top 5 pizza by Revenue.
+
+   
+![Dashboard Snapshot](https://github.com/rachna12345/Pizza-Sales-Analysis-with-SQL-and-Power-BI/assets/38923078/f11dcdba-ac3e-47f7-9e82-c883aeb76692)
